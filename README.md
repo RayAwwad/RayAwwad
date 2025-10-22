@@ -1,10 +1,9 @@
 # 💫 About Me
-🔭 I’m currently working on: Enhancing a company's project as part of my internship, focusing on developing and integrating new features in a full-stack environment.<br>
-👯 I’m looking to collaborate on: Projects that involve modern web technologies like .NET Core, React, and TypeScript, and that allow me to work on both backend and frontend.<br>
-🤝 I’m looking for help with: Improving my understanding of advanced backend concepts, best practices in clean code architecture, and optimizing performance in full-stack applications.<br>
-🌱 I’m currently learning: In-depth concepts of .NET Core, Entity Framework, and advanced React patterns, including state management and component design.<br>
-💬 Ask me about: How to integrate authentication in full-stack applications, working with RESTful APIs, and tips for transitioning from a student to a professional developer.<br>
-⚡ Fun fact: I’m passionate about exploring new tech stacks, and I believe every bug has a lesson behind it!
+🔭 I’m currently working as a Full-Stack Developer, focusing on designing, developing, and integrating new features across both frontend and backend systems using .NET Core and React.<br>
+🤝 I’m continuously improving my expertise in advanced backend development, clean architecture principles, and performance optimization for scalable full-stack applications.<br>
+🌱 I’m currently deepening my knowledge in .NET Core, Entity Framework, and modern React patterns — including efficient state management, component reusability, and best practices for maintainable UI design.<br>
+💬 Ask me about: Building secure authentication systems, integrating RESTful APIs, and applying clean code practices in real-world full-stack projects.<br>
+⚡ Fun fact: I’m passionate about exploring emerging technologies and believe that every debugging session is an opportunity to learn and grow.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ray.awwad/)  
@@ -28,9 +27,9 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RayAwwad&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RayAwwad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RayAwwad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayAwwad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayAwwad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RayAwwad&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
